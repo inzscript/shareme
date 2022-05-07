@@ -6,5 +6,20 @@ This is a code repository for the corresponding video tutorial.
 
 Using React, Tailwind & Sanity you'll learn how to build a Full Stack Social Media Application - from start to finish.
 
-## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://jsmasterypro.com/newsletter
+## Setup 
+
+Inside that directory, you can run several commands:
+
+  npm start
+    Starts the development server.
+
+  npm run build
+    Bundles the app into static files for production.
+
+  npm test
+    Starts the test runner.
+
+  npm run eject
+    Removes this tool and copies build dependencies, configuration files
+    and scripts into the app directory. If you do this, you can’t go back!
+
